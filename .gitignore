@@ -1,0 +1,7 @@
+/build/
+/bin/
+server
+client
+*_test
+*.csv
+*.png
